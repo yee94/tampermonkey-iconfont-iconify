@@ -1,9 +1,8 @@
 // ==UserScript==
 // @name         Iconfont React
-// @namespace    lazada
 // @version      1.0.0
 // @description  自动下载 React ICON 组件
-// @author       风水
+// @author       yee.wang
 // @include      https://*.iconfont.cn/*
 // @require      http://cdn.bootcss.com/jquery/1.12.4/jquery.min.js
 // @updateURL    https://github.com/yee94/tampermonkey-iconfont-iconify/raw/main/index.user.js

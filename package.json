@@ -1,0 +1,19 @@
+{
+  "name": "iconfont-react",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "esbuild ./src/index.ts --watch --bundle --outfile=dist/main.js",
+    "build": "esbuild ./src/index.ts --bundle --outfile=dist/main.js --minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@iconify/tools": "^2.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.16.14"
+  }
+}

@@ -1,4 +1,4 @@
-# Tampermonkey Script for iconfont -> Iconify JSON and React Component
+# Tampermonkey Script for iconfont -> iconify JSON and React component
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c460180364f3425f8776489c61fb448f~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
